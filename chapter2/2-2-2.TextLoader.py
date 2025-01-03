@@ -1,4 +1,4 @@
-# 2-2-1 Document Locader - TextLoader
+# 2-2-2 Document Locader - Text Loader
 from dotenv import load_dotenv
 from langchain_community.document_loaders import TextLoader
 from langchain_core.messages import SystemMessage
